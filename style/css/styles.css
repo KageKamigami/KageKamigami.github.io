@@ -35,7 +35,7 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 30px;
     margin-left: 20px;
     /* optional: adds some space between the buttons */
 }
@@ -55,7 +55,7 @@ body {
 }
 
 .btn:hover {
-    background-color: #FAF9F6;
+    background-color: #ffd7dd;
 }
 
 .gif_container {
