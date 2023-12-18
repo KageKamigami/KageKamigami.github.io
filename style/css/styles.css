@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #F8C8DC;
+    background-color: rgb(248, 203, 121);
 }
 
 /* Position the "No" button absolutely within body */
@@ -21,7 +21,7 @@ body {
 }
 
 .header_text {
-    font-family: 'Nunito';
+    font-family: 'Bubbly', sans-serif;
     font-size: 50px;
     font-weight: bold;
     color: white;
