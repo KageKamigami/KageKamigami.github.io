@@ -16,6 +16,7 @@ body {
 
 #yesButton {
     position: absolute;
+    height: 90%;
     margin-right: 150px;
     /* Smooth movement */
 }
